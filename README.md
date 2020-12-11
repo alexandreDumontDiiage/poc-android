@@ -1,4 +1,4 @@
-# Android Poc pour le projet de réservation de salle
+# Android Poc pour le projet de réservation d'espace
 
 Je me suis basé sur un tutoriel faisant appel à l'api star wars qui semblait bien coller avec les besoins du projet pour réaliser ce poc.
 Je présente ici une liste de véhicule avec différentes informations.  
